@@ -8,7 +8,7 @@ setup(
     description='EDSA example python package',
     long_description=open('README.md').read(),
     install_requires=['numpy'],
-    url='https://github.com/HFZ11/mypackage',
+    url='https://github.com/HFZ11/mypackage.git',
     author='Fatima Zahra HADJI',
     author_email='<fatimazahra.hadji@gmail.com>'
 )
